@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/not-thematic-page/static/css/main.a94a178c.chunk.css",
+    "main.js": "/not-thematic-page/static/js/main.5787682f.chunk.js",
+    "main.js.map": "/not-thematic-page/static/js/main.5787682f.chunk.js.map",
+    "runtime-main.js": "/not-thematic-page/static/js/runtime-main.16cdb1c1.js",
+    "runtime-main.js.map": "/not-thematic-page/static/js/runtime-main.16cdb1c1.js.map",
+    "static/js/2.5f49172f.chunk.js": "/not-thematic-page/static/js/2.5f49172f.chunk.js",
+    "static/js/2.5f49172f.chunk.js.map": "/not-thematic-page/static/js/2.5f49172f.chunk.js.map",
+    "index.html": "/not-thematic-page/index.html",
+    "static/css/main.a94a178c.chunk.css.map": "/not-thematic-page/static/css/main.a94a178c.chunk.css.map",
+    "static/js/2.5f49172f.chunk.js.LICENSE.txt": "/not-thematic-page/static/js/2.5f49172f.chunk.js.LICENSE.txt",
+    "static/media/mainly.scss": "/not-thematic-page/static/media/beach-640.02a85c0b.jpg",
+    "static/media/header.scss": "/not-thematic-page/static/media/street-640.84399781.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16cdb1c1.js",
+    "static/js/2.5f49172f.chunk.js",
+    "static/css/main.a94a178c.chunk.css",
+    "static/js/main.5787682f.chunk.js"
+  ]
+}
